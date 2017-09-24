@@ -1,0 +1,17 @@
+apt-get install apt-transport-https
+curl https://packages.microsoft.com/keys/microsoft.asc | apt-key add -
+curl https://packages.microsoft.com/config/ubuntu/16.04/mssql-server.list | tee /etc/apt/sources.list.d/mssql-server.list
+apt-get install mssql-server
+
+apt-get isntall sudo
+
+
+https://linux-tips.com/t/installing-microsoft-sql-server-on-debian-linux/476
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+https://gist.github.com/brianherman/99c363de4fd64a31f047da0f281879d6
+https://social.msdn.microsoft.com/Forums/windowsapps/en-US/3ece4cbe-b6d3-4f48-ab83-c56cbe6eda8c/problems-with-installing-sql-server?forum=sqlsetupandupgrade
+
+
+
+
+deb http://ftp.debian.org/debian jessie-backports main
