@@ -12,7 +12,7 @@ docker run --net=host --name=homebridge oznu/homebridge:raspberry-pi
 
 
 #Boot2Docker, setting of proxy details
-https://forums.docker.com/t/proxy-configuration-the-right-way/1012
+https://forums.docker.com/t/proxy-configuration-the-right-way/
 
 #restart docker daemon
 /etc/init.d/docker restart
