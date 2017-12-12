@@ -1,0 +1,36 @@
+Note / config for firefox....
+
+about:config
+
+media.autoplay.enabled        : false
+extensions.pocket.enabled     : false
+reader.parse-on-load.enabled  : false
+
+//////////////////
+browser.pocket.enabled
+browser.pocket.useLocaleList
+browser.toolbarbuttons.introduced.pocket-button
+//////////////////
+https://wphelp365.com/blog/how-to-disable-pocket-in-mozilla-firefox/
+//////////////////
+
+about:addons
+
+Find new group-tab tool
+https://github.com/Morikko/sync-tab-groups
+https://github.com/Drive4ik/simple-tab-groups/issues
+
+
+Writing extensions
+https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Your_first_WebExtension
+
+about:debugging
+about:support
+about:plugins
+about:addons
+
+https://github.com/mdn/webextensions-examples
+https://eslint.org/
+https://stackoverflow.com/questions/9630395/do-not-load-images-in-javascript
+https://www.mozilla.org/en-GB/firefox/
+
