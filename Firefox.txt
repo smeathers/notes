@@ -14,6 +14,11 @@ browser.toolbarbuttons.introduced.pocket-button
 https://wphelp365.com/blog/how-to-disable-pocket-in-mozilla-firefox/
 //////////////////
 
+
+https://ffprofile.com/
+
+
+
 about:addons
 
 Find new group-tab tool
