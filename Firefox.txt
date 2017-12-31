@@ -5,6 +5,7 @@ about:config
 media.autoplay.enabled        : false
 extensions.pocket.enabled     : false
 reader.parse-on-load.enabled  : false
+media.autoplay.enabled        : false #stops auto play videos on places like pcworld.com
 
 //////////////////
 browser.pocket.enabled
