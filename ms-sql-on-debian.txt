@@ -41,3 +41,4 @@ deb-src http://ftp.uk.debian.org/debian/ jessie-backports main contrib non-free
 
 apt-get update
 apt-get install mssql-server
+/opt/mssql/bin/mssql-conf setup
