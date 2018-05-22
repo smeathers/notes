@@ -15,3 +15,22 @@ https://social.msdn.microsoft.com/Forums/windowsapps/en-US/3ece4cbe-b6d3-4f48-ab
 
 
 deb http://ftp.debian.org/debian jessie-backports main
+
+
+
+
+
+
+
+
+
+wget http://packages.microsoft.com/keys/microsoft.asc
+apt-key add microsoft.asc
+
+apt-get update
+apt-get install apt-transport-https
+
+wget http://packages.microsoft.com/config/ubuntu/16.04/mssql-server-2017.list | tee /etc/apt/sources.list.d/mssql-server-2017.list
+
+apt-get update
+apt-get install mssql-server
