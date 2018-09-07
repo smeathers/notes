@@ -1,5 +1,9 @@
 Docker notes...
 
+Boot2Docker
+user: docker pass: tcuser
+
+
 https://stackoverflow.com/questions/16840409/how-to-list-containers-in-docker
 https://docs.docker.com/engine/reference/commandline/cli/#option-types
 https://github.com/wsargent/docker-cheat-sheet
