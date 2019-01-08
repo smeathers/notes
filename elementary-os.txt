@@ -1,0 +1,10 @@
+packges to remove after new install
+
+maya-calendar
+pantheon-mail
+pantheon-photos
+pantheon-calculator
+audience
+noise
+appcenter
+io.elementary.camera
