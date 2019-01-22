@@ -1,0 +1,4 @@
+Windows 10 Notes
+
+# to stop telemetry?
+https://superuser.com/a/981749
