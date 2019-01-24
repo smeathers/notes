@@ -4,5 +4,8 @@ Windows 10 Notes
 https://superuser.com/a/981749
 https://winaero.com/blog/how-to-disable-telemetry-and-data-collection-in-windows-10/
 
+# stop calls to fs.microsoft.com
+https://docs.microsoft.com/en-us/windows/client-management/mdm/policy-csp-system
+
 # Windows Subsystem for Linux
 https://superuser.com/questions/1271682/is-there-a-way-of-installing-windows-subsystem-for-linux-on-win10-v1709-withou#1272559
