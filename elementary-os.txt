@@ -1,5 +1,4 @@
-packges to remove after new install
-
+#packges to remove after new install
 maya-calendar
 pantheon-mail
 pantheon-photos
@@ -8,3 +7,6 @@ audience
 noise
 appcenter
 io.elementary.camera
+
+# Visual Studio Code for Linux
+https://code.visualstudio.com/docs/setup/linux#_setting-vs-code-as-the-default-text-editor
