@@ -40,3 +40,8 @@ https://eslint.org/
 https://stackoverflow.com/questions/9630395/do-not-load-images-in-javascript
 https://www.mozilla.org/en-GB/firefox/
 
+"permissions.default.image" change it to 2.
+Possible values:
+1 -- Always load the images
+2 -- Never load the images
+3 -- Don't load third images 
