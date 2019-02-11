@@ -2,12 +2,11 @@ apt-get update
 
 sudo apt-get install xrdp
 sudo apt-get install firefox-esr
+apt-get install gnome-system-monitor
 
 iwlist wlan0 scan
 
 halt -p
-
-
 
 # install HomeBridge
 sudo apt-get update
