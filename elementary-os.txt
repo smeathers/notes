@@ -14,3 +14,5 @@ https://code.visualstudio.com/docs/setup/linux#_setting-vs-code-as-the-default-t
 # Others...
 https://old.reddit.com/r/elementaryos/comments/a8klen/poor_battery_life/
 https://itsfoss.com/things-to-do-after-installing-elementary-os-5-juno/
+
+apt-get install gnome-system-monitor
