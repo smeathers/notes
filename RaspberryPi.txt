@@ -4,6 +4,9 @@ sudo apt-get install xrdp
 sudo apt-get install firefox-esr
 apt-get install gnome-system-monitor
 
+#remove....
+apt-get remove chromim-browser
+
 iwlist wlan0 scan
 
 halt -p
