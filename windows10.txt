@@ -13,3 +13,6 @@ https://superuser.com/questions/1271682/is-there-a-way-of-installing-windows-sub
 # Used to remove scheduled tasks 
 https://www.askvg.com/how-to-disable-customer-experience-improvement-program-in-windows-media-player/
 # Scheduler>Microsoft>Windows>Customer Experieence...> disable all tasks listed.
+
+# Remote Desktop Wallpaper Disabled (may not be needed)
+https://superuser.com/questions/674024/how-to-enable-desktop-background-on-a-remote-computer
