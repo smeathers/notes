@@ -16,3 +16,6 @@ https://www.askvg.com/how-to-disable-customer-experience-improvement-program-in-
 
 # Remote Desktop Wallpaper Disabled (may not be needed)
 https://superuser.com/questions/674024/how-to-enable-desktop-background-on-a-remote-computer
+
+# games on windows 10 from windows 7
+https://winaero.com/blog/get-windows-7-games-for-windows-10/
