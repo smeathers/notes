@@ -20,3 +20,10 @@ https://forums.docker.com/t/proxy-configuration-the-right-way/
 
 #restart docker daemon
 /etc/init.d/docker restart
+
+
+# to allow docker containers to be on the same subnet as machines outside the host.
+sudo ip link set eth0 promisc on
+
+ip link set eth0 promisc on
+ip link add em1p0 link eth0 type macvlan mode bridge
